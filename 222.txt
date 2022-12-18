@@ -1,0 +1,1 @@
+cat car scar sum ravno  ne palindrom
